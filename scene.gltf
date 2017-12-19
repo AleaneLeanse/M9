@@ -123,10 +123,10 @@
   ],
   "images": [
     {
-      "uri": "01%20-%20Default_baseColor.png"
+      "uri": "baseColor.png"
     },
     {
-      "uri": "01%20-%20Default_metallicRoughness.png"
+      "uri": "metallicRoughness.png"
     }
   ],
   "materials": [
